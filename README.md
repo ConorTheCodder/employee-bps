@@ -35,5 +35,3 @@ src/main/java/com/company/thirdspringbootproject/
     ├── EmployeeReqDTO.java                 # DTO для запросов (create/update/get)
     └── EmployeeResDTO.java                 # DTO для ответа (get all)
 ```
-
----
